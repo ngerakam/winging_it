@@ -10,6 +10,7 @@ function NoContent() {
     <Footer />
     </>
   )
+  
 }
 
 export default NoContent
